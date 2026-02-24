@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="196dcffd-0f23-47ff-b3a3-a42caa4edc93" name="更改" comment="feature: 为数字、字母、符号、弹跳垫、两种蜂巢添加配方">
-      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/A.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/a.json" afterDir="false" />
-    </list>
+    <list default="true" id="196dcffd-0f23-47ff-b3a3-a42caa4edc93" name="更改" comment="fix: 修复了字母方块无掉落物的bug" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,13 +90,22 @@
       <option name="project" value="LOCAL" />
       <updated>1771846151517</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fix: 修复了字母方块无掉落物的bug">
+      <option name="closed" value="true" />
+      <created>1771909387662</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1771909387662</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Merge pull request #7 from box3lab/dev&#10;&#10;chore(workflow): 更新GitHub Actions上传工件动作到v4版本" />
     <MESSAGE value="feature: adding loot tables for all blocks, exactly the same as &quot;grass.json&quot;" />
     <MESSAGE value="feature: 为数字、字母、符号、弹跳垫、两种蜂巢添加配方" />
-    <option name="LAST_COMMIT_MESSAGE" value="feature: 为数字、字母、符号、弹跳垫、两种蜂巢添加配方" />
+    <MESSAGE value="fix: 修复了字母方块无掉落物的bug" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: 修复了字母方块无掉落物的bug" />
   </component>
 </project>
